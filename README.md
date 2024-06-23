@@ -6,3 +6,5 @@ accordingly.
 Virtual collaboration tournaments of various games can be held.
 
 Skills: Front-End Development · Bootstrap · HTML5 · Canva · GitHub · Cascading Style Sheets (CSS)
+
+Link - https://swapnalimorankar.github.io/7th-gaming/game.html
